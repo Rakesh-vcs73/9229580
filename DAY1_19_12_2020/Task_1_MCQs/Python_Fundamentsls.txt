@@ -1,0 +1,36 @@
+1)
+
+Which line gives correct
+output:
+"\n"
+
+a)print("\n")
+b)print("\\n")
+c)print('"\\n"')
+d)print(\n)
+
+2)
+What is output of code segment
+
+name="John"
+school = "Kendriya Vidyalaya"
+class = "9th"
+print("Student studies in class : ",class)
+
+a) Student studies in class :  9th
+b) Student studies in class : John
+c) syntax error
+d) 9th
+
+
+3)
+What is output of code segment
+a = 2+3j
+b = 3
+c = a+b
+print(c)
+
+a) TypeError
+b) 5
+c) (5+3j)
+d) 2+3j+3 

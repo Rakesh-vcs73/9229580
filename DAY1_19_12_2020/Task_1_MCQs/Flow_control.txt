@@ -1,0 +1,51 @@
+1)
+What is Output of the code
+a = False
+b = True
+if a:
+    print(a)
+else:
+    print(b)
+
+a) NameError: name 'False' is not defined
+b) True
+c) False
+d) b
+
+
+2)What is Output of the code
+li=[(1,2,3),(4,5),(6,7,8)]
+for i in li:
+    for j in i:
+        print(j,end=" ")
+    print()
+
+a)	(1, 2, 3)
+	(4, 5)
+	(6, 7, 8)
+
+b)	1 2 3 
+	4 5 
+	6 7 8
+
+c)	1 2 3 4 5 6 7 8
+
+d) Syntax Error
+
+
+
+3)
+What is output of code segment
+
+li = [1,3,5,7,9]
+i=0
+while(i>5):
+    print(li[i])
+    i+=1
+else:
+    print("Done")
+ 
+a) 1 3 5 7 9 Done
+b) 1 3 5 7 9
+c) Syntax Error
+d) Done
