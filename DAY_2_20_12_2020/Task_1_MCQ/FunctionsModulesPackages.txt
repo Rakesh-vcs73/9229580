@@ -1,0 +1,28 @@
+1)
+What is output of code
+
+def func1(name,age):
+	print(name)
+	print(age)
+
+func1(age=22,name="Jane")
+
+a) 22
+   Jane
+
+b) TypeError
+
+c) Jane
+   22
+
+d) name
+   age
+
+
+2)
+A package must contain a _____ file
+
+a) Module.py file
+b) Another Sub-package
+c) None
+d) __init__.py file

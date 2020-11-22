@@ -1,0 +1,26 @@
+1)
+
+Which code prints the number of arguments passed to commandline
+
+a) from sys import argv
+   print(len(sys.argv))
+
+b) from sys import argv
+   print(len(argv))
+
+c) import sys
+   print(len(argv))
+
+d) None of the above
+
+
+2)
+
+What is the length of arguments passed in
+
+$ python calcy.py 10 20
+
+a) 2
+b) 1
+c) 4
+d) 3
